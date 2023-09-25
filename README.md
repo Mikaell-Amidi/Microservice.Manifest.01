@@ -1,5 +1,5 @@
 # Microservice.Manifest.01
-This is temporary repository, consisting of two Microservices for demonstrating signature, for sake of readability it has been written in Java 8 and compilable till JDK 14.
+This is temporary repository, consisting of two Microservices for demonstrating signature, for sake of readability it has been written in JDK 8, JEP's.
 Module.001 -- DM4(Domain Modern 4th layer)-MVP Application with ORM based TPR model
 Module.002 -- CTD(Central Topology Distributer) Application based on Zookeper & Kstream API's
 
