@@ -6,3 +6,9 @@ Module.002 -- CTD(Central Topology Distributer) Application based on Zookeper & 
 Here is a brief FSM design for Module.001
 
 ![FSM](https://github.com/Mikaell-Amidi/Microservice.Manifest.01/assets/82368245/649885ef-4935-46e6-904d-f6e30a891b63)
+
+
+UML Design fpr both modules
+
+[module-001.pdf](https://github.com/Mikaell-Amidi/Microservice.Manifest.01/files/14190702/module-001.pdf)
+[module-002.pdf](https://github.com/Mikaell-Amidi/Microservice.Manifest.01/files/14190703/module-002.pdf)
